@@ -1,0 +1,15 @@
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const langSelector = document.createElement('select');
+    langSelector.innerHTML = `
+      <option value="/en-US/">English</option>
+      <option value="/zh-TW/">繁體中文</option>
+      <option value="/zh-CN/">简体中文</option>
+    `;
+    langSelector.onchange = (e) => {
+      window.location.href = langSelector.value;
+    };
+    langSelector.style.marginLeft = '1rem';
+    document.querySelector('.site-header .site-title')?.appendChild(langSelector);
+  });
+</script>

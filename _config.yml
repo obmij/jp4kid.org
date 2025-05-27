@@ -1,0 +1,26 @@
+title: JP4Kid - Child Protection Resources
+email: info@jp4kid.org
+description: "Save the Children defines1 child protection as measures and structures to prevent
+and respond to abuse, neglect, exploitation and violence affecting children."
+baseurl: ""
+url: "jp4kid.org"
+theme: just-the-docs
+color_scheme: light
+nav:
+  - title: "Main"
+    url: "/"
+    children:
+      - title: "Post"
+        url: "/post/"
+      - title: "Contribute"
+        url: "/contribute"
+  - title: "About"
+    url: "/about"
+  - title: "Contact"
+    url: "/contact"
+search_enabled: true
+languages:
+  en-US: "English"
+  zh-TW: "繁體中文"
+  zh-CN: "简体中文"
+includes_dir: _includes
