@@ -1,0 +1,58 @@
+{"0": {
+    "doc": "About",
+    "title": "About",
+    "content": "Details about this project site. ",
+    "url": "/about.html",
+    
+    "relUrl": "/about.html"
+  },"1": {
+    "doc": "First Article",
+    "title": "First Article",
+    "content": "Article content here. ",
+    "url": "/post/article-en-us-the-first.html",
+    
+    "relUrl": "/post/article-en-us-the-first.html"
+  },"2": {
+    "doc": "First Article",
+    "title": "First Article",
+    "content": "Article content here. ",
+    "url": "/post/article-zh-cn-the-first.html",
+    
+    "relUrl": "/post/article-zh-cn-the-first.html"
+  },"3": {
+    "doc": "First Article",
+    "title": "First Article",
+    "content": "Article content here. ",
+    "url": "/post/article-zh-tw-the-first.html",
+    
+    "relUrl": "/post/article-zh-tw-the-first.html"
+  },"4": {
+    "doc": "Contact",
+    "title": "Contact",
+    "content": "Your email: Your message: Send ",
+    "url": "/contact.html",
+    
+    "relUrl": "/contact.html"
+  },"5": {
+    "doc": "Contribute",
+    "title": "How to Contribute",
+    "content": "Instructions on contributing to this project. ",
+    "url": "/contribute.html#how-to-contribute",
+    
+    "relUrl": "/contribute.html#how-to-contribute"
+  },"6": {
+    "doc": "Contribute",
+    "title": "Contribute",
+    "content": " ",
+    "url": "/contribute.html",
+    
+    "relUrl": "/contribute.html"
+  },"7": {
+    "doc": "Main",
+    "title": "Main",
+    "content": "#Welcome to JP4Kid.org . Now clearly, the importance of preventing violence  is hard to stress.  Enormously important.  First of all, because of the harm and the pain it unnecessarily creates.  Secondly, because its impact is not just immediate, but often enduring.  We know from reliable scientific data that violence early  on in a child’s life can create what is now referred to as toxic stress.  A level of stress that is very hard to overcome,  that alerts the nervous system of the child  later on in life to a toxic stress that impedes  adaptive and positive development.  We know that violence can generate long lasting trauma.  And also we know that violence submitted to  as a child can have intergenerational consequences.  Children who have been treated violently and who have been abused often  become abusive parents.  So the importance of addressing this phenomenon and addressing it vigorously  is hard to overstate. ",
+    "url": "/",
+    
+    "relUrl": "/"
+  }
+}
