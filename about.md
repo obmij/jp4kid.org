@@ -1,0 +1,6 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+#I am an adult survivor of childhood sexual assault. From the third grade of elementary school to the third grade of junior high school, during all the winter and summer vacations for seven years, I had almost no choice but to obey and be sexually assaulted. If I didn't obey, I would be bullied or return to my home with my alcoholic father. Whenever my father was drunk, he would most likely beat my mother. If my mother was not around, I would inexplicably become a target. As long as my father started to scold me, "You beast, you dead mainlander," every farce would start like this. Although my father did not punish me with his bare hands, there were many objects of all sizes that flew towards me. Once a kitchen knife flew less than ten centimeters away from my left ear. Therefore, my childhood was very short. The happiest moment in my memory was when my elderly grandparents took care of me until I was in the second grade of elementary school. First, I officially separated from my uncle and grandfathers, and then not long after, my grandfather died of cancer. At that time, I felt like the sky had fallen and there was no one to protect me anymore.
